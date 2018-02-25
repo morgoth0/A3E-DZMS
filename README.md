@@ -22,6 +22,7 @@ Credits
 * BetterDeadThanZed - The original Vehicle Patrol implementation
 * Ivory - Updates to BetterDeadThanZed's Vehicle Patrol implementation
 * ekroemer - DZMS Hotspots
+* JasonTM - Overpoch 1.0.6.2 update of DZMS - https://epochmod.com/forum/profile/36459-jasontm/
 
 --------------------------
 License
