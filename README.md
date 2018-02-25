@@ -3,11 +3,11 @@
 
 A port of the ARMA2/DayZ/Epoch DZMS system to ARMA3/Epoch
 
-A Logic and Usability Rewrite of the DayZChernarus Mission System.
+ARMA2/DayZ/Epoch DZMS was a Logic and Usability Rewrite of the DayZChernarus Mission System.
 
-Current Version is 3.01_A3.
+Current ARMA3 Version is 3.01_A3.
 
-If you are interested in helping, please contact me on EpochMod.com.
+If you are interested in helping, please contact me (Grahame) on EpochMod.com.
 
 --------------------------
 Credits
