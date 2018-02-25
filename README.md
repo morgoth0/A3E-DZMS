@@ -1,2 +1,31 @@
-# A3E-DZMS
-DayZ Mission System ported to ARMA3/Epoch
+**[DZMS] DayZ Mission System**
+================
+
+A port of the ARMA2/DayZ/Epoch DZMS system to ARMA3/Epoch
+
+A Logic and Usability Rewrite of the DayZChernarus Mission System.
+
+Current Version is 3.01_A3.
+
+If you are interested in helping, please contact me on EpochMod.com.
+
+--------------------------
+Credits
+--------------------------
+* Vampire - Developer - https://epochmod.com/forum/profile/11819-thevampire/
+* Mudzereli - Developer - https://epochmod.com/forum/profile/9461-mudzereli/
+* Halvhjearne - For Debugging and Code Modifications.
+* OpenDayz.net - For the knowledge we all have today about Arma Coding.
+* TAW_Tonic - Original Mission Creator. - http://www.altisliferpg.com/
+* TheSzerdi - Original DayZ Mission Developer. - http://opendayz.net/members/theszerdi.3761/
+* Lazyink - Modified the DayZ Mission system to work on Chernarus. - http://opendayz.net/members/lazyink.3595/
+* BetterDeadThanZed - The original Vehicle Patrol implementation
+* Ivory - Updates to BetterDeadThanZed's Vehicle Patrol implementation
+* ekroemer - DZMS Hotspots
+
+--------------------------
+License
+--------------------------
+All the code and information provided here is provided under a Commons License.
+
+http://creativecommons.org/licenses/by-sa/3.0/
